@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CatServerWorld.aternos.me:37104",
+    "ip": "CatServerWorld.aternos.me",
     "port": 37104,
     "version": "",
     "try-creative": false
